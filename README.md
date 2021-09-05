@@ -2,7 +2,7 @@
 
 This an Non SQL Inventory Management project which directly deals bet Admin of any shop and Consumer besides with Selling, updating, adding, maintaining and tracking all records in json and txt files.
 
-####The main featutes are-
+The main featutes are-
 
 1.Checking veracity of entered product ID with Inventory.
 2.Checking quantity of product which user wants is currently present in json file or not
